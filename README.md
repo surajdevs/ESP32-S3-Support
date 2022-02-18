@@ -1,6 +1,10 @@
 # ESP32-S3-Support
  This Arduino Package supports ESP32-S3 Chip, Example code can be compiled without getting any error and works fine for the available features.
- 
+ # Dounload 
+ Dounload ESP32-S3 Support Arduino Files from 
+ https://drive.google.com/file/d/1ZVGfxSsxlp93RriS2VOcGiBiVnZgY4gT/view?usp=sharing
+ and dounload it
+ and follow below steps.
  # How to use
  1. Download this Folder as Zip
  2. Unzip this folder
